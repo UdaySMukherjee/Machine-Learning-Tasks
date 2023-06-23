@@ -32,8 +32,6 @@ For example:
 - TensorFlow 2.3.0
 - Scikit-learn 0.24.2
 
-You can either install these dependencies manually or create a virtual environment using the provided `requirements.txt` file.
-
 ## Usage
 
 1. Clone this repository:
